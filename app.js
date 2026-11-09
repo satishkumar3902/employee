@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 
 const employees = [
-  { id: 1, name: "Satish", role: "Team Lead" },
+  { id: 1, name: "Srinu", role: "Team Lead " },
   { id: 2, name: "kishore", role: "Developer" }
 ];
 
